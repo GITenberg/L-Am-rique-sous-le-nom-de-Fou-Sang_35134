@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '37484'
     url: http://www.gutenberg.org/2009/agents/37484
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/35134#L-Am-rique-sous-le-nom-de-Fou-Sang
 gutenberg_bookshelf: FR Histoire
 gutenberg_issued: '2011-01-31'
 gutenberg_type: Text
